@@ -10,3 +10,7 @@ You can use these games offline if you're bored.
 **Remember to:**
 
 - Credit the creators.
+
+## Navigation
+
+[.rbxl Games for Older Versions](/games/)
