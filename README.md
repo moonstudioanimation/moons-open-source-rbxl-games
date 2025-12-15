@@ -14,3 +14,5 @@ You can use these games offline if you're bored.
 ## Navigation
 
 [.rbxl Games for Older Versions](/games/)
+
+[.rbxl Games for Newer Versions](/newer-games/)
