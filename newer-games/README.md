@@ -1,3 +1,1 @@
-This game collection can be played with an newer roblox version.
-
-2017-Present
+This game collection can be played with an newer roblox version from 2017-Present.
